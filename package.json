@@ -1,0 +1,15 @@
+{
+  "name": "crypto-portfolio-tracker",
+  "version": "1.0.0",
+  "description": "Track crypto assets across multiple wallets and exchanges",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0"
+  }
+}
